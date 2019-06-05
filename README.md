@@ -1,7 +1,4 @@
-# home
-InterPlanetary Monetary System website
-
-## IPMS - InterPlanetary Monetary System
+# IPMS - InterPlanetary Monetary System
 
 Home for InterPlanetary Monetary System website.
 
